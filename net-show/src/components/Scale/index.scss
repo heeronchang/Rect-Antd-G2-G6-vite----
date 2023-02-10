@@ -1,0 +1,9 @@
+.scale-box {
+  transform-origin: 0 0;
+  position: relative;
+  transform: translateX(-50%);
+  transition: 0.1s;
+  left: 50%;
+  width: 1920px;
+  height: 1080px;
+}
